@@ -1,6 +1,3 @@
-#Simple account management system suitable for windows operationg system
-# Copyright 2017 by Martial Himanshu.  All rights reserved.
-# Developed By: Martial Himanshu
 
 from tkinter import *
 import ledger_bk
